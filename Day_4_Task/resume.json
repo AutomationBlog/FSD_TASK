@@ -1,0 +1,107 @@
+{
+  "basics": {
+    "name": "Alwin Santhosh S",
+    "label": "QA - Automation testing",
+    "picture": "dp.jpg",
+    "email": "sanwin24@gmail.com",
+    "phone": "987654321",
+    "degree": "BE - Computer Science and Engineering",
+    "website": "https://automationblog.github.io/myprofile/",
+    "summary": "Experienced QA professional specializing in automation testing.",
+    "location": {
+      "address": "Chennai",
+      "postalCode": "600126",
+      "city": "Chennai",
+      "countryCode": "INDIA",
+      "region": "Tamilnadu"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "automationblog",
+        "url": "https://github.com/AutomationBlog"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "ABC limited",
+      "position": "QA",
+      "website": "http://abc.com",
+      "startDate": "17/02/2023",
+      "endDate": "Present",
+      "summary": "Quality Assurance role at ABC limited.",
+      "highlights": [
+        "Implemented automated testing solutions for improving efficiency.",
+        "Collaborated with development teams to ensure quality throughout the development lifecycle."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "GUVI",
+      "area": "Development",
+      "studyType": "Bachelor",
+      "startDate": "20/01/2024",
+      "endDate": "Present",
+      "gpa": "86",
+      "courses": ["Javascript", "HTML", "CSS", "MongoDB"]
+    },
+    {
+      "institution": "GUVI",
+      "area": "Autometion",
+      "studyType": "Bachelor",
+      "startDate": "20/01/2024",
+      "endDate": "Present",
+      "gpa": "74",
+      "courses": ["Selenium", "Javascript", "APITesting", "MySQL"]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "level": "",
+      "keywords": [
+        "Java",
+        "Python",
+        "JavaScript"
+      ]
+    },
+    {
+      "name": "Automation Tools",
+      "level": "",
+      "keywords": [
+        "Selenium",
+        "Appium",
+        "Robot Framework"
+      ]
+    },
+    {
+      "name": "Testing Frameworks",
+      "level": "",
+      "keywords": [
+        "JUnit",
+        "TestNG",
+        "PyTest"
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Technology",
+      "keywords": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "IoT"
+      ]
+    },
+    {
+      "name": "Sports",
+      "keywords": [
+        "Cricket",
+        "Football",
+        "Badminton"
+      ]
+    }
+  ]
+}
