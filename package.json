@@ -1,0 +1,15 @@
+{
+  "name": "fsd_task",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alwin",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "JSON": "^1.0.0",
+    "xhr2": "^0.2.1"
+  }
+}
