@@ -7,10 +7,10 @@ xhr.send();
 xhr.onload = function () {
   countryResponse = JSON.parse(xhr.responseText);
   //console.log(countryResponse);
-  /* asiaCountries(countryResponse);
+  asiaCountries(countryResponse);
   populationCountries(countryResponse);
   countryDetails(countryResponse);
-  totalPopulation(countryResponse); */
+  totalPopulation(countryResponse);
   usDollarCounries(countryResponse);
 };
 
