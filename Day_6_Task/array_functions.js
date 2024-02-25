@@ -22,7 +22,7 @@ function asiaCountries(country) {
   asiaCountries.forEach((country) => {
     console.log(country.name.common);
   });
-  //console.log("********** *********** **********");
+  console.log("********** *********** **********");
 }
 
 function populationCountries(country) {
@@ -33,7 +33,7 @@ function populationCountries(country) {
   popCountries.forEach((country) => {
     console.log(country.name.common);
   });
-  //console.log("********** *********** **********");
+  console.log("********** *********** **********");
 }
 function countryDetails(country) {
   console.log(
@@ -44,7 +44,7 @@ function countryDetails(country) {
       `============ \n Name: ${country.name.common} \n Capital: ${country.capital} \n Flag: ${country.flag} \n ============`
     );
   });
-  //console.log("********** *********** **********");
+  console.log("********** *********** **********");
 }
 function totalPopulation(country) {
   console.log(
@@ -54,7 +54,7 @@ function totalPopulation(country) {
     return value + country.population;
   }, 0);
   console.log("Total Population ::: " + totalPopulation);
-  //console.log("********** *********** **********");
+  console.log("********** *********** **********");
 }
 
 function usDollarCounries(country) {
