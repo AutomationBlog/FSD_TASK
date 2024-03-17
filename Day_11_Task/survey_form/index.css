@@ -1,0 +1,29 @@
+.bold{
+    font-weight: bold;
+}
+.red{
+    color: red;
+}
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, Helvetica, sans-serif, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.smallText{
+    font-size: small;
+}
+.checked {
+    color: orange;
+}
+.centered {
+    text-align: center;
+}
+.lightGray{
+    background-color: #F1F1F1;
+}
+table th{
+    padding: 50px;
+}
+@media only screen and (max-width: 620px) {
+    body {
+        width: 100%;
+    }
+}
