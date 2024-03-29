@@ -57,7 +57,8 @@ function onSubmit(event) {
 if(flag){
     document.querySelector(".out code").innerHTML = out;
     const element = document.querySelector(".out code");
-    element.scrollIntoView();
+  element.scrollIntoView();
+  document.forms["form-control"].reset();
 }
 }
    

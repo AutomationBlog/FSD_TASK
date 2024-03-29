@@ -53,12 +53,14 @@ tr>td {
    .pageButton {
     border: 1px solid black;
     padding: 2px;
+    cursor: pointer;
   }
    .clickPageNumber {
     background-color: lightgrey;
     padding: 2px;
     margin-left: 2px;
     margin-right: 2px;
+    cursor: pointer;
   }
    .pagination-block {
     text-align: center;
