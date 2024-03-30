@@ -55,10 +55,10 @@ function onSubmit(event) {
     <p>Country:  <span>${formData.country}</span></p>
    `;
 if(flag){
-    document.querySelector(".out code").innerHTML = out;
-    const element = document.querySelector(".out code");
-  element.scrollIntoView();
-  document.forms["form-control"].reset();
+    const element = document.querySelector(".out");
+    element.innerHTML = out;
+    element.scrollIntoView();
+    document.forms["form-control"].reset();
 }
 }
    
